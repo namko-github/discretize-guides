@@ -1,8 +1,13 @@
 ---
+title: Heal Firebrand
 hidden: false
 archive: false
+rating: Good
+role: Support
 author: Ascers.6082
+profession: Guardian
 specialization: Firebrand
+conditions: []
 boons:
   - name: Quickness
     uptime: 150%
@@ -26,24 +31,19 @@ boons:
     uptime: 78%
     variant: group
 code: "[&DQEuKzEvPhZLFwAAehYAAEkBAAAWAQAAGBYAAAAAAAAAAAAAAAAAAAAAAAACBQBmAAA=]"
+cmGuide: pug
 classification:
   - 4
   - 1
   - 3
   - 1
   - 2
-date: "2023-10-15T09:02:55.704Z "
-title: Heal Firebrand
-rating: Good
-role: Support
-profession: Guardian
-conditions: []
-cmGuide: pug
+date: "2024-04-15T22:45:19.667Z "
 ---
   
 <Warning> 
 
-This build is very common in PuGs. More info about building effective team compositions can be found [here](/guides/effective-comp). This build provides a high amount of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in-between the full heal and damage version called [Celestial Firebrand](/builds/guardian/celestial-firebrand) for parties wanting to transition to no heal runs.
+This build is very common in PuGs. More information about building effective team compositions can be found [here](/guides/effective-comp). This build provides a high number of boons and a lot of safety to the group via its healing. It, therefore, shines most in less experienced groups as well as when you have bad instabilities. Once the safety of a dedicated healer is no longer needed, you can move on to running [Power Firebrand](/builds/guardian/power-firebrand) or [Condi. Firebrand](/builds/guardian/condi-firebrand). We also added a new heal variant that is in between the full heal and damage version called [Celestial Firebrand](/builds/guardian/celestial-firebrand) for parties wanting to transition to no heal runs.
  
 </Warning>
 
@@ -71,7 +71,7 @@ Note that this build variant is optimized for 150 agony resistance. If you have 
 </Character>
 <Character title="Water Runes" gear='{"attributes":{"profession":"Guardian","specialization":"Firebrand","data":{"Health":24195,"Armor":3508,"Power":1938,"Precision":1000,"Toughness":2237,"Vitality":2368,"Ferocity":0,"Condition Damage":1264,"Expertise":0,"Concentration":975,"Healing Power":1762,"Agony Resistance":150,"Condition Duration":0,"Boon Duration":1,"Critical Chance":0.3,"Critical Damage":1.5,"Power Coefficient":0,"Power2 Coefficient":0,"Burning Coefficient":0,"Bleeding Coefficient":0,"Poison Coefficient":0,"Torment Coefficient":0,"Confusion Coefficient":0,"Flat DPS":0,"Resolution Duration":0.25,"Outgoing Healing":0.4657200000000001,"Effective Power":3524.131874999999,"NonCrit Effective Power":3064.4624999999996,"Power DPS":0,"Power2 DPS":0,"Siphon DPS":0,"Bleeding Damage":140.645,"Bleeding Stacks":0,"Bleeding DPS":0,"Burning Damage":469.94749999999993,"Burning Stacks":0,"Burning DPS":0,"Confusion Damage":150.100875,"Confusion Stacks":0,"Confusion DPS":0,"Poison Damage":157.17625,"Poison Stacks":0,"Poison DPS":0,"Torment Damage":209.2425,"Torment Stacks":0,"Torment DPS":0,"Damage":0,"Effective Health":168907582.08955225,"Survivability":85870.65688335143,"Effective Healing":1346.4103920000002,"Healing":1346.4103920000002}},"armor":{"weight":"Heavy","helmAffix":"Minstrel","helmRuneId":24839,"helmRune":"Water","helmRuneCount":6,"helmInfusionId":37125,"shouldersAffix":"Harrier","shouldersRuneId":24839,"shouldersRune":"Water","shouldersRuneCount":6,"shouldersInfusionId":37125,"coatAffix":"Minstrel","coatRuneId":24839,"coatRune":"Water","coatRuneCount":6,"coatInfusionId":37125,"glovesAffix":"Harrier","glovesRuneId":24839,"glovesRune":"Water","glovesRuneCount":6,"glovesInfusionId":37125,"leggingsAffix":"Harrier","leggingsRuneId":24839,"leggingsRune":"Water","leggingsRuneCount":6,"leggingsInfusionId":37125,"bootsAffix":"Minstrel","bootsRuneId":24839,"bootsRune":"Water","bootsRuneCount":6,"bootsInfusionId":37125},"weapon":{"weapon1MainId":76158,"weapon1MainType":"Axe","weapon1MainSigil1Id":72339,"weapon1MainAffix":"Minstrel","weapon1MainInfusion1Id":37125,"weapon1OffId":30696,"weapon1OffType":"Shield","weapon1OffSigilId":74326,"weapon1OffAffix":"Minstrel","weapon1OffInfusionId":37125,"weapon2MainId":30698,"weapon2MainType":"Staff","weapon2MainSigil1Id":72339,"weapon2MainAffix":"Minstrel","weapon2MainInfusion1Id":37125,"weapon2MainInfusion2Id":37125,"weapon2MainSigil2Id":74326},"backAndTrinket":{"backItemAffix":"Minstrel","backItemInfusion1Id":37125,"backItemInfusion2Id":37125,"amuletAffix":"Minstrel","ring1Affix":"Minstrel","ring1Infusion1Id":37125,"ring1Infusion2Id":37125,"ring1Infusion3Id":37125,"ring2Affix":"Minstrel","ring2Infusion1Id":37125,"ring2Infusion2Id":37125,"ring2Infusion3Id":37125,"accessory1Affix":"Minstrel","accessory1InfusionId":37125,"accessory2Affix":"Minstrel","accessory2InfusionId":37125},"consumables":{"foodId":91690,"utilityId":67528,"relicId":100031},"skills":{"healId":41714,"utility1Id":40915,"utility3Id":9128,"eliteId":43357},"assumedBuffs":{"value":[{"id":"might","type":"Boon"},{"id":"fury","type":"Boon"},{"id":"protection","type":"Boon"},{"id":"vulnerability","type":"Condition"},{"id":"jade-bot","gw2id":96613,"type":"Item"},{"id":"omnipotion","gw2id":79722,"type":"Item"}]},"traits":{"selection":[[617,610,554],[1899,557,558],[2101,2063,2105]],"lines":[46,49,62]}}'>
 
-Use <Item id="100031"/>.
+It is recommended to use <Item id="100031"/>.
 
 This setup can be used if you don't want to farm <Item id="24842"/> from dungeons.
 
